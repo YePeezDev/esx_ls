@@ -8,6 +8,8 @@
 - Mettre le sql dans la bdd. 
 - Pour avoir le Job IG faite : /setjob [id] mechanic [grade].
 
+- Le mapping : https://www.gta5-mods.com/maps/mecano-mechanic-ymap
+
 Par YePeezFive
 
 ------------
@@ -19,5 +21,7 @@ Par YePeezFive
 - Drag the esx_lscustom and esx_mechanicjob files into your resource file, and then start it on the server.cfg
 - Put the sql in the database.
 - To have the IG Job done: / setjob [id] mechanic [grade].
+
+- Mapping : https://www.gta5-mods.com/maps/mecano-mechanic-ymap
 
 By YePeezFive
